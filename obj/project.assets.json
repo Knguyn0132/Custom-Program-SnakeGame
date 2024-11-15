@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Semester 2\\Object Oriented Programming\\Custom-Program-SnakeGame\\SnakeGame.csproj",
+      "projectUniqueName": "D:\\Semester 2\\Object Oriented Programming\\Custom Program SnakeGame\\SnakeGame.csproj",
       "projectName": "SnakeGame",
-      "projectPath": "D:\\Semester 2\\Object Oriented Programming\\Custom-Program-SnakeGame\\SnakeGame.csproj",
+      "projectPath": "D:\\Semester 2\\Object Oriented Programming\\Custom Program SnakeGame\\SnakeGame.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Semester 2\\Object Oriented Programming\\Custom-Program-SnakeGame\\obj\\",
+      "outputPath": "D:\\Semester 2\\Object Oriented Programming\\Custom Program SnakeGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
