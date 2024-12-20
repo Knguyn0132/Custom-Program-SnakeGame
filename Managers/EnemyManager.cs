@@ -18,8 +18,7 @@ namespace SnakeGame
         private int _raidsSurvived;
         private bool _bossWarningActive;
 
-        private static EnemyManager? _instance;
-
+        
         
         public EnemyManager(List<GameObject> gameObjects)
         {

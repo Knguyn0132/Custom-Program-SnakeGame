@@ -52,6 +52,7 @@ namespace SnakeGame.State
         {
             GameTimersManager.Instance.StartAll();
             _isMultiplayer = isMultiplayer;
+            _allowGameOverSound = true;
 
             if (isMultiplayer)
             {
